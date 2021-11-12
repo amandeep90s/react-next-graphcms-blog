@@ -7,6 +7,7 @@ import {
   Categories,
   Comments,
   CommentsForm,
+  Loader,
   PostDetail,
   PostWidget,
 } from "../../components";
